@@ -1,0 +1,4 @@
+skel
+====
+
+Skeleton RightScale Blueprint
